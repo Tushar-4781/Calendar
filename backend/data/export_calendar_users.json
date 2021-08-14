@@ -1,0 +1,20 @@
+{"_id":{"$oid":"6005988f06ea6b360cb75747"},"events":[{
+    "email": "tushar@gmail.com",
+    "Description": "asd",
+    "EndTime": "Tue Aug 10 2021 01:00:00 GMT+0530 (India Standard Time)",
+    "EndTimezone": null,
+    "Id": 1,
+    "IsAllDay": false,
+    "Location": "India",
+    "RecurrenceRule": "FREQ=MONTHLY;BYDAY=TH;BYSETPOS=3;INTERVAL=2;UNTIL=20211017T183000Z;",
+    "StartTime": "Tue Aug 10 2021 00:00:00 GMT+0530 (India Standard Time)",
+    "StartTimezone": null
+    },
+    {
+        "email": "tushar@gmail.com",
+        "Id" :2,
+        "Subject": "Explosion of Betelgeuse Star",
+        "StartTime": "Wed Aug 11 2021 2:30:00 GMT+0530 (India Standard Time)",
+        "EndTime": "Wed Aug 11 2021 5:30:00 GMT+0530 (India Standard Time)"
+    }],"name":"nodejs-developer","email":"test@gmail.com","password":"$2a$04$rVSo9XmemcJOjTkc3B6m7eYm8hv7NuLxzVlv00NFB1e2a.dgBVuoC","createdAt":{"$date":"2021-01-18T14:17:51.324Z"},"updatedAt":{"$date":"2021-01-22T05:53:39.633Z"},"__v":0}
+{"_id":{"$oid":"600a695da6e5b6845906e726"},"events":[],"name":"abc","email":"tushar@gmail.com","password":"$2a$08$7vsI5PLZPth9q2/JOvxhv.U.VpYSfcBYuQ1IdcamE76IHKxjy2lgK","createdAt":{"$date":"2021-01-22T05:57:49.999Z"},"updatedAt":{"$date":"2021-01-22T05:57:49.999Z"},"__v":0}
