@@ -52,6 +52,10 @@ class Register extends React.Component{
 
 
   validateResponse = (errored, response) => {
+    if(response.message && response.success===false){
+      message.error(response.message);
+      return false;
+    }
     if (errored || (!response.tokens && !response.message)) {
       message.error(
         "Something went wrong. Check that the backend is running, reachable and returns valid JSON."
